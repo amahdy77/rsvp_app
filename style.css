@@ -18,15 +18,46 @@ video#bgvid {
 
 p{
 	color: #ffffff;
-	margin: 15%;
 	font-size: 6em;
+	margin: 5% 0% 5% 15%;
 }
 
-input{
-	width: 35%;
+div{
+	margin: 10% 0% 5% 0%;
+}
+
+.registration input{
+	width: 38%;
 	height: 10%;
 	text-align: center;
 	font-size: 2em;
-	margin: -12% 15% 0% 15%;
-
+	margin: 1% 0% 1% 15%;
 }
+
+.personal input{
+	width: 38%;
+	height: 10%;
+	text-align: center;
+	font-size: 2em;
+	margin: 1% 0% 1% 15%;
+}
+
+.submission{
+	margin: 5% 0% 5% 0%;
+}
+
+.submission a{
+	color: #ffffff;
+  	text-decoration: none;
+  	font-size: 2em;
+  	background-color: #5382E8;
+  	opacity: 0.9;
+  	border: 1px solid #5382E8;
+  	border-radius: 2px;
+  	padding-top: .7%;
+  	padding-bottom: .5%;
+  	padding-left: 5%;
+  	padding-right: 5%;
+  	margin-left: 15%;
+}
+
